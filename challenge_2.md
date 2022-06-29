@@ -1,10 +1,11 @@
-# IT-CS 2022
+# IT-CS 2022 - Bei 100 Mrd. Clicksteam-Events & Backend-Daten den Überblick wahren? Mit SQL geht’s - Eine Coding-Challenge
 ## Challenge 2
 
-Täglich liefern alle OTTO Group Gesellschaften ihren aktuellen Stand an Produktstammdaten an unseren Datenpool. <br>
-In der Tabelle `oghub-analytics.it_cs_2022.skufeed` befinden sich alle Produktstammdaten aus dem Jahr 2021. <br>
-Berechne den aktuellsten Stand für jede SKU (StockKeepingUnit, eindeutig identifiziert über die skuID) aus den<br>
-Produktstammdaten (`oghub-analytics.it_cs_2022.skufeed`) für den Monat Dezember. Ignoriere Produkte<br>aus der Tabelle
+Täglich liefern alle OTTO Group Gesellschaften ihren aktuellen Stand an Produktstammdaten an unseren Datenpool.
+In der Tabelle `oghub-analytics.it_cs_2022.skufeed` befinden sich alle Produktstammdaten aus dem Jahr 2021.
+
+Berechne den aktuellsten Stand für jede SKU (**S**tock**K**eeping**U**nit, eindeutig identifiziert über die skuID) aus den
+Produktstammdaten (`oghub-analytics.it_cs_2022.skufeed`) für den Monat Dezember. Ignoriere Produkte aus der Tabelle
 `oghub-analytics.it_cs_2022.ignored_products`.
 
 

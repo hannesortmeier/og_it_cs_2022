@@ -1,9 +1,11 @@
-# IT-CS 2022
+# IT-CS 2022 - Bei 100 Mrd. Clicksteam-Events & Backend-Daten den Überblick wahren? Mit SQL geht’s - Eine Coding-Challenge
 ## Challenge 1
 
-Jedesmal, wenn ein User ein Produkt in einem der Otto Group online Shops anschaut oder eine Produktliste angezeigt bekommt, wird ein Eintrag<br>
+Jedesmal, wenn ein User ein Produkt in einem der Otto Group online Shops anschaut oder eine Produktliste angezeigt bekommt, wird ein Eintrag
 in der Tabelle `oghub-analytics.it_cs_2022.display_product_details` bzw `oghub-analytics.it_cs_2022.display_product_list`
-erzeugt. <br>Berechne für alle Produkte die Anzahl der eindeutigen Nutzer, die sich das Produkt auf einer Detailseite/Produktliste am 01. und
+erzeugt.
+
+Berechne für alle Produkte die Anzahl der eindeutigen Nutzer, die sich das Produkt auf einer Detailseite/Produktliste am 01.05.2021 und
 02.05.2021 angeschaut haben.
 
 
